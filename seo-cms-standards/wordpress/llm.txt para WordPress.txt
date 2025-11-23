@@ -1,0 +1,13 @@
+Este archivo corresponde a la estructura de un sitio web desarrollado con WordPress.
+
+WordPress es un CMS basado en PHP que utiliza temas, plugins y una arquitectura modular. 
+Este archivo acompaña al robots.txt del CMS en este repositorio, cuyo objetivo es servir de referencia para estrategias SEO y de análisis por parte de modelos de lenguaje.
+
+Contenido relevante:
+- Estructura típica: /wp-admin/, /wp-content/, /wp-includes/
+- Uso frecuente para blogs, páginas corporativas y sitios SEO.
+- Archivo creado para contextualización de LLMs y facilitar tareas de análisis semántico y técnico.
+
+No contiene información sensible ni credenciales.
+
+

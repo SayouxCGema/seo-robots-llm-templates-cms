@@ -1,0 +1,14 @@
+Este archivo corresponde a la estructura de un sitio web desarrollado con Shopify.
+
+Shopify es una plataforma SaaS enfocada en comercio electrónico. No permite acceso directo al servidor, pero utiliza una estructura basada en plantillas Liquid. 
+Este archivo acompaña al robots.txt del CMS en este repositorio, con el objetivo de proporcionar contexto a modelos de lenguaje (LLMs) para estrategias SEO y análisis técnico.
+
+Contenido relevante:
+- Estructura típica: /collections/, /products/, /pages/, archivos Liquid.
+- Enfoque principal: tiendas online y catálogos.
+- Archivo creado para contextualización de LLMs y dar soporte a estrategias de IA + SEO.
+
+No contiene información sensible ni credenciales.
+
+
+

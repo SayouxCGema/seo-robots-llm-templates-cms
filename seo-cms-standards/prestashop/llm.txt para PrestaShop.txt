@@ -1,0 +1,15 @@
+Este archivo corresponde a la estructura de un sitio web desarrollado con PrestaShop.
+
+PrestaShop es un CMS de comercio electrónico basado en PHP con arquitectura modular mediante controladores, clases, módulos y plantillas Smarty.
+Este archivo acompaña al robots.txt del CMS en este repositorio y sirve para dar contexto a modelos de lenguaje (LLMs) en análisis SEO, técnico y documental.
+
+Contenido relevante:
+- Estructura típica: /classes/, /controllers/, /modules/, /themes/
+- Enfoque principal: tiendas online con alta personalización.
+- Archivo creado para mejorar la comprensión semántica del CMS en tareas de IA.
+
+No contiene información sensible ni credenciales.
+
+
+
+

@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /classes/
+Disallow: /config/
+Disallow: /download/
+Disallow: /mails/
+Disallow: /modules/
+Disallow: /translations/
+Disallow: /tools/
+Disallow: /*?orderby=
+Disallow: /*?orderway=
+Disallow: /*?tag=
+Disallow: /*controller=addresses
+Disallow: /*controller=authentication
+Disallow: /*controller=cart
+Disallow: /*controller=order
+Disallow: /*controller=search
+
+Sitemap: https://tudominio.com/sitemap.xml
+
