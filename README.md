@@ -13,7 +13,7 @@ Incluye archivos listos para usar en:
 Reglas de bloqueo estándar para evitar problemas de indexación y ahorrar *Crawl Budget* en las secciones administrativas de cada CMS.
 
 ### 2. llm.txt (Nuevo Estándar AI)
-Plantillas markdown para ayudar a los **Large Language Models (LLMs)** como ChatGPT y Claude a entender mejor la estructura de tu web y mejorar la visibilidad en búsquedas por IA.
+Plantillas de Markdown para ayudar a los **Large Language Models (LLMs)** como ChatGPT y Claude a entender mejor la estructura de tu web y a mejorar la visibilidad en búsquedas por IA.
 
 ---
 
@@ -29,7 +29,7 @@ Plantillas markdown para ayudar a los **Large Language Models (LLMs)** como Chat
 
 ## 👨‍💻 Sobre el Autor
 
-Soy **[Gema]**, especialista en SEO Técnico y Estrategia Digital. Ayudo a empresas a mejorar su visibilidad en Google y en motores de respuesta IA.
+Soy **Gema**, especialista en SEO Técnico y Estrategia Digital. Ayudo a empresas a mejorar su visibilidad en Google y en motores de respuesta IA.
 
 ¿Tienes dudas sobre cómo configurar el archivo `llm.txt` para tu nicho específico?
 
